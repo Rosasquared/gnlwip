@@ -1,0 +1,41 @@
+../get_next_line.c: Error!
+Error: MISALIGNED_VAR_DECL  (line:  26, col:   9):	Misaligned variable declaration
+Error: NO_SPC_AFR_PAR       (line:  28, col:  22):	Extra space after parenthesis (brace/bracket)
+Error: CONSECUTIVE_NEWLINES (line:  45, col:   1):	Consecutive newlines
+Error: MISALIGNED_VAR_DECL  (line:  50, col:   9):	Misaligned variable declaration
+Error: MISALIGNED_VAR_DECL  (line:  63, col:  13):	Misaligned variable declaration
+Error: SPACE_AFTER_KW       (line:  68, col:   9):	Missing space after keyword
+Error: SPC_BFR_PAR          (line:  68, col:  15):	Missing space before parenthesis (brace/bracket)
+../get_next_line.h: Error!
+Error: INVALID_HEADER       (line:   1, col:   1):	Missing or invalid 42 header
+Error: CONSECUTIVE_SPC      (line:  14, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  14, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  15, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  15, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  16, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  16, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  17, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  17, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  18, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  18, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  19, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  19, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  20, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  20, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  21, col:   7):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  21, col:   7):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  22, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  22, col:   5):	Found space when expecting tab
+Error: CONSECUTIVE_SPC      (line:  23, col:   5):	Two or more consecutives spaces
+Error: SPACE_REPLACE_TAB    (line:  23, col:   5):	Found space when expecting tab
+../get_next_line_utils.c: Error!
+Error: INVALID_HEADER       (line:   1, col:   1):	Missing or invalid 42 header
+Error: NEWLINE_PRECEDES_FUNC (line:  71, col:   1):	Functions must be separated by a newline
+Error: TOO_FEW_TAB          (line:  82, col:   1):	Missing tabs for indent level
+Error: SPACE_REPLACE_TAB    (line:  82, col:   2):	Found space when expecting tab
+Error: MIXED_SPACE_TAB      (line:  83, col:   1):	Mixed spaces and tabs
+Error: TOO_FEW_TAB          (line:  83, col:   1):	Missing tabs for indent level
+Error: TOO_FEW_TAB          (line:  84, col:   1):	Missing tabs for indent level
+Error: SPACE_REPLACE_TAB    (line:  84, col:   2):	Found space when expecting tab
+Error: TOO_MANY_TAB         (line:  88, col:   1):	Extra tabs for indent level
+Error: LINE_TOO_LONG        (line: 123, col:  82):	line too long
